@@ -57,7 +57,10 @@ Thank you for giving my profile a visit! </p>
 <p>I graduate from California State University, Sacramento as a Computer Science major in May 2024! All of my relevant coursework can be found in <a href="https://github.com/Kevin-Cendana/Computer-Science-Coursework">this</a> repository.</p>
 
 <!-- Section: Volunteering --> 
-<h2><u>Volunteering</u></h2>
+<details>
+  <summary>
+<b>Volunteering</b>
+</summary>
 
 <!-- Volunteer: ACM -->
 <h3><a href="https://csus.acm.org/">Association for Computing Machinery (ACM)</a></h3>
@@ -67,3 +70,5 @@ ACM is the premiere Computer Science & Computer Engineering-based club on the CS
 <!-- Volunteer: VGDC -->
 <h3><a href="https://github.com/Kevin-Cendana/Video-Game-Design-Club-CSUS">Video Game Design Club (VGDC)</a></h3>
 I'm a programmer for the VGDC at CSUS, which is filled with passionate students learning to design and create video games. I've helped develop a game demo for a game jam session, and I'm also the sole designer & developer of the club's website.
+
+</details>
