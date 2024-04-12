@@ -7,10 +7,6 @@
 <br>
 Thank you for giving my profile a visit! </p>
 
-<!-- Section: About Me -->
-<h2><u>About Me</u></h2>
-<p>Whether it's for my career or my hobby, I love programming. I've always been drawn to the puzzle solving aspect and the challenges that come with it, as well as the satisfaction of seeing my creations come to life from designs.</p>
-
 <!-- Section: Career -->
 <h2><u>Career</u></h2>
 <img src="./dreamarcades-logo.png" href="https://www.dreamarcades.com/" width="160px" height="65px" alt="DreamArcades Logo">
