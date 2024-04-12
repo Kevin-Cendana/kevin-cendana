@@ -24,11 +24,9 @@ Thank you for giving my profile a visit! </p>
 |:--:|:--|
 
 <!-- Project: Chunkify -->
-<h3><a href="https://github.com/Kevin-Cendana/Chunkify">Chunkify</a> <br>[In Development]</h3>
-<p>Chunkify is a task list app with a twist: AI helps give advice and break down your tasks into smaller chunks! Chunkify is targeted towards people who get overwhelmed easily, such as people with ADHD, anxiety, or adjacent disorders. With this in mind, I have designed Chunkify's UI to be as clean, simple, and quick to use as possible.
-<br>
-Made for the <a href="https://lu.ma/o2sau79c">AI Hackathon @ CSUS</a> in April 2024 with a team of 4, but development is still ongoing. I made the UI as well as most of the frontend code. One of my passion projects that I still work on long term.</p>
-<!-- <img src="./"> -->
+| ![Chunkify](./chunkify.png) | **[Chunkify](https://github.com/Kevin-Cendana/Chunkify)**<br>Chunkify is a task list app with a twist: AI helps give advice and break down your tasks into smaller chunks! Targeted towards people who get overwhelmed easily, such as those with ADHD, anxiety, or adjacent disorders. Made for the [AI Hackathon @ CSUS](https://lu.ma/o2sau79c) in April 2024 with a team of 4, but development is still ongoing. I made the UI as well as most of the frontend code. |
+|:--:|:--|
+
 
 <!-- Project: AT&T 5G Technology Website -->
 | ![AT&T 5G Website](./att-website.png) | **[AT&T 5G Technology Website](https://github.com/Kevin-Cendana/Hackathon-ATT-EmpowHer)**<br>A website that showcases the benefits of AT&T's 5G technology, such as faster speeds, lower latency, and more. Made for AT&T's Hackathon: EmpowHer in June 2023. I designed and developed the website from scratch with HTML, JS, and CSS on my own. |
