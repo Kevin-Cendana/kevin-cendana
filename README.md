@@ -13,19 +13,18 @@ Thank you for giving my profile a visit! </p>
 
 <!-- Section: Career -->
 <h2><u>Career</u></h2>
-<div class="row" style="display:flex;">
-<img src="./dreamarcades-logo.png" href="https://www.dreamarcades.com/" width="190px" height="75px" alt="DreamArcades Logo">
-<p>I currently work as a Frontend Developer at <a href="https://www.dreamarcades.com/">DreamArcades!</a> It's a fun job that involves developing, maintaining, and designing the website for the company, with the occasional backend task managing their database.</p>
-</div>
+<img src="./dreamarcades-logo.png" href="https://www.dreamarcades.com/" width="160px" height="65px" alt="DreamArcades Logo">
+<p>I currently work as a Frontend Developer at <a href="https://www.dreamarcades.com/">DreamArcades!</a> It's a fun job that involves developing and designing the website for the company, with the occasional backend task managing their database.</p>
+
 <!-- Section: Projects -->
 <h2><u>Projects</u></h2>
 
 <!-- Project: Portfolio Website -->
-| ![Portfolio Website](./project-portfolio-website.png) | **[Portfolio Website](https://kevinpcendana.com/)**<br>My personal portfolio website that showcases my projects, skills, and experiences. Designed with Figma and developed from scratch with React. |
+| ![Portfolio Website](./portfolio-website.png) | **[Portfolio Website](https://kevinpcendana.com/)**<br>My personal portfolio website that showcases my projects, skills, and experiences. <br><br> I designed a template of the app with Figma and developed it from scratch with React. |
 |:--:|:--|
 
 <!-- Project: Chunkify -->
-| ![Chunkify](./chunkify.png) | **[Chunkify](https://github.com/Kevin-Cendana/Chunkify)**<br>Chunkify is a task list app with a twist: AI helps give advice and break down your tasks into smaller chunks! Targeted towards people who get overwhelmed easily, such as those with ADHD or adjacent disorders. <br><br>Made for the [AI Hackathon @ CSUS](https://lu.ma/o2sau79c) in April 2024 with a team of 4, but development is still ongoing. I made the UI as well as most of the frontend code. |
+| ![Chunkify](./chunkify.png) | **[Chunkify](https://github.com/Kevin-Cendana/Chunkify)**<br>Chunkify is a task list with a twist: AI gives advice and breaks down your tasks into smaller chunks. Chunkify is perfect for those who get overwhelmed easily, such as those with ADHD or adjacent disorders. <br><br>Made for the [AI Hackathon @ CSUS](https://lu.ma/o2sau79c) in April 2024 with a team of 4, but development is still ongoing. I made the UI as well as most of the frontend code. |
 |:--:|:--|
 
 
@@ -43,7 +42,7 @@ Thank you for giving my profile a visit! </p>
 
 
 <!-- Project: Byte Sized Projects -->
-| **[Byte Sized Projects](https://github.com/Kevin-Cendana/Byte-Sized-Projects)**<br>I am a firm believer that the best way to learn is by doing. I like to make a lot of smaller apps in my free time just to get some practice or to try out a new field of programming for fun! For example, here are a series of apps I made using Swift UI, including a sleep tracker, time converter, tip calculator, Word Scrabble, Guess the Flag, & more. I made these apps to practice Swift UI and iOS development. 
+| **[Byte Sized Projects](https://github.com/Kevin-Cendana/Byte-Sized-Projects)**<br>I am a firm believer that the best way to learn is by doing. As such, I like to make a lot of smaller apps in my free time just to get some practice or to try out a new field of programming for fun! <br><br>For example, here are a series of apps I made using Swift UI, including a sleep tracker, time converter, tip calculator, Word Scrabble, Guess the Flag, & more. I made these apps to practice Swift UI and iOS development. 
 |:--|
 | <img src="./better_rest.png" alt="Better Rest" width="95" height="175"> <img src="./time_converter.png" alt="Time Converter" width="95" height="175"> <img src="./we_split.png" alt="We Split" width="95" height="175"> <img src="./word_scrabble.png" alt="Word Scrabble" width="95" height="175"> <img src="./guess_the_flag.png" alt="Guess The Flag" width="95" height="175"> |
 
@@ -57,8 +56,8 @@ Thank you for giving my profile a visit! </p>
 
 <!-- Volunteer: ACM -->
 <h3><a href="https://csus.acm.org/">Association for Computing Machinery (ACM)</a></h3>
-I'm the current webmaster for the ACM club at CSUS, the premiere Computer Science & Computer Engineering-based club on the CSU Sacramento campus. I help maintain, design, and develop the website for the club.
-<img src="./acm-website.png">
+ACM is the premiere Computer Science & Computer Engineering-based club on the CSU Sacramento campus. As their webmaster, I've helped maintain, design, and develop the website for the club, such as by adding in the members section to the website.
+<!-- <img src="./acm-website.png"> -->
 
 <!-- Volunteer: VGDC -->
 <h3><a href="https://github.com/Kevin-Cendana/Video-Game-Design-Club-CSUS">Video Game Design Club (VGDC)</a></h3>
