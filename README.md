@@ -7,10 +7,15 @@
 <br>
 Thank you for giving my profile a visit! </p>
 
-<!-- Section: Career -->
-<h2><u>Career</u></h2>
-<img src="./dreamarcades-logo.png" href="https://www.dreamarcades.com/" width="160px" height="65px" alt="DreamArcades Logo">
-<p>I currently work as a Frontend Developer at <a href="https://www.dreamarcades.com/">DreamArcades!</a> It's a fun job that involves developing and designing the website for the company, with the occasional backend task managing their database.</p>
+<!-- Section: Careers -->
+<details>
+  <summary>
+    <h2><u>Career</u></h2>
+  </summary>
+
+  <img src="./dreamarcades-logo.png" href="https://www.dreamarcades.com/" width="160px" height="65px" alt="DreamArcades Logo">
+  <p>I currently work as a Frontend Developer at <a href="https://www.dreamarcades.com/">DreamArcades!</a> It's a fun job that involves developing and designing the website for the company, with the occasional backend task managing their database.</p>
+</details>
 
 <!-- Section: Projects -->
 <h2><u>Projects</u></h2>
