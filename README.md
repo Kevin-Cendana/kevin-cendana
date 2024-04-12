@@ -18,7 +18,10 @@ Thank you for giving my profile a visit! </p>
 </details>
 
 <!-- Section: Projects -->
-<h2><u>Projects</u></h2>
+<details>
+  <summary>
+    <b>Projects</b>
+  </summary>
 
 <!-- Project: Portfolio Website -->
 | ![Portfolio Website](./portfolio-website.png) | **[Portfolio Website](https://kevinpcendana.com/)**<br>My personal portfolio website that showcases my projects, skills, and experiences. <br><br> I designed a template of the app with Figma and developed it from scratch with React. |
@@ -47,6 +50,7 @@ Thank you for giving my profile a visit! </p>
 |:--|
 | <img src="./better_rest.png" alt="Better Rest" width="95" height="175"> <img src="./time_converter.png" alt="Time Converter" width="95" height="175"> <img src="./we_split.png" alt="We Split" width="95" height="175"> <img src="./word_scrabble.png" alt="Word Scrabble" width="95" height="175"> <img src="./guess_the_flag.png" alt="Guess The Flag" width="95" height="175"> |
 
+</details>
 
 <!-- Section: Academia --> 
 <h2><u>Academia</u></h2>
