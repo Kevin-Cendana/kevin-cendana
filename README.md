@@ -30,12 +30,12 @@ Thank you for giving my profile a visit! </p>
 <p>Chunkify is a task list app with a twist: AI helps give advice and break down your tasks into smaller chunks! Chunkify is targeted towards people who get overwhelmed easily, such as people with ADHD, anxiety, or adjacent disorders. With this in mind, I have designed Chunkify's UI to be as clean, simple, and quick to use as possible.
 <br>
 Made for the <a href="https://lu.ma/o2sau79c">AI Hackathon @ CSUS</a> in April 2024 with a team of 4, but development is still ongoing. I made the UI as well as most of the frontend code. One of my passion projects that I still work on long term.</p>
-<img src="./">
+<!-- <img src="./"> -->
 
 <!-- Project: AT&T 5G Technology Website -->
 <h3><a href="https://github.com/Kevin-Cendana/Hackathon-ATT-EmpowHer">AT&T 5G Technology Website</a></h3>
 <div class="row" style="display:flex;">
-    <img src="./att-website.png" width=200 height=200 align="left">
+    <img src="./att-website.png" width=180 height=180 align="left">
     <p>A website that showcases the benefits of AT&T's 5G technology, such as faster speeds, lower latency, and more.
     <br>
     Made for <a href="https://life.att.jobs/college-students-empowher-hackathon/">AT&T's Hackathon: EmpowHer</a> in June 2023. I designed and developed the website from scratch with HTML, JS, and CSS on my own.</p>
@@ -44,7 +44,7 @@ Made for the <a href="https://lu.ma/o2sau79c">AI Hackathon @ CSUS</a> in April 2
 <!-- Project: Lyric Link -->
 <h3><a href="https://github.com/Kevin-Cendana/Hackathon-SacHacks-2023">Lyric Link</a></h3>
 <div class="row" style="display:flex">
-    <img width=200 height=200 align="left" src="https://camo.githubusercontent.com/978852e443842149bc957e170a92c1bc2f991aeea168c446d0d9f1fa949927e3/68747470733a2f2f692e696d6775722e636f6d2f554e4d577a30692e676966">
+    <img width=180 height=180 align="left" src="https://camo.githubusercontent.com/978852e443842149bc957e170a92c1bc2f991aeea168c446d0d9f1fa949927e3/68747470733a2f2f692e696d6775722e636f6d2f554e4d577a30692e676966">
     <p>A full stack demo application using Django, React, HTML & CSS, Lyric Link acts as a forum that sorts through the top 100 songs on Billboard. Users can leave thoughts and comments on the songs. 
     <br>
     Made for <a href="https://sachacks-v.devpost.com/">SacHacks</a> in November 2023 in a team of 4 over the weekend. I designed the UI, created all of the frontend code, and successfully linked with my teammates backend code.</p>
@@ -54,7 +54,7 @@ Made for the <a href="https://lu.ma/o2sau79c">AI Hackathon @ CSUS</a> in April 2
 <!-- Project: Maplestory Mini -->
 <h3><a href="https://github.com/Kevin-Cendana/Byte-Sized-Projects/tree/main/Maplestory%20App">Maplestory Mini</a></h3>
 <div class="row" style="display:flex;">
-    <img src="./maplestory-app.gif" width=200 height=200 align="left">
+    <img src="./maplestory-app.gif" width=180 height=180 align="left">
     <p>A project made to practice Flutter & Dart based on the gameplay loop of one of my favorite childhood games, Maplestory. I made the app for fun to try out mobile development!</p>
 </div>
 
