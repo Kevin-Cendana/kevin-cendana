@@ -24,7 +24,7 @@ Thank you for giving my profile a visit! </p>
 |:--:|:--|
 
 <!-- Project: Chunkify -->
-| ![Chunkify](./chunkify.png) | **[Chunkify](https://github.com/Kevin-Cendana/Chunkify)**<br>Chunkify is a task list with a twist: AI gives advice and breaks down your tasks into smaller chunks. Chunkify is perfect for those who get overwhelmed easily, such as those with ADHD or adjacent disorders. <br><br>Made for the [AI Hackathon @ CSUS](https://lu.ma/o2sau79c) in April 2024 with a team of 4, but development is still ongoing. I made the UI as well as most of the frontend code. |
+| ![Chunkify](./chunkify.png) | **[Chunkify](https://github.com/Kevin-Cendana/Chunkify)**<br>Chunkify is a task list with a twist: AI breaks down your tasks into smaller chunks. Chunkify is perfect for those who get overwhelmed easily, such as those with ADHD. <br><br>Made for the [AI Hackathon @ CSUS](https://lu.ma/o2sau79c) in April 2024 with a team of 4, but development is still ongoing. I made the UI & most of the frontend code. |
 |:--:|:--|
 
 
