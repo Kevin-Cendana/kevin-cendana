@@ -54,9 +54,9 @@ Thank you for giving my profile a visit! </p>
 
 <!-- Section: Academia --> 
 <details>
-<section>
+<summary>
 <b>Academia</b>
-</section>
+</summary>
 <p>I graduate from California State University, Sacramento as a Computer Science major in May 2024! All of my relevant coursework can be found in <a href="https://github.com/Kevin-Cendana/Computer-Science-Coursework">this</a> repository.</p>
 </details>
 
