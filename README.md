@@ -8,36 +8,37 @@
 Thank you for giving my profile a visit! </p>
 
 <!-- Section: About Me -->
-<h2>✍️ <u>About Me</u></h2>
+<h2><u>About Me</u></h2>
 <p>Whether it's for my career or my hobby, I love programming. I've always been drawn to the puzzle solving aspect and the challenges that come with it, as well as the satisfaction of seeing my creations come to life from designs.</p>
 
 <!-- Section: Career -->
-<h2>💼 <u>Career</u></h2>
+<h2><u>Career</u></h2>
+<div class="row" style="display:flex;">
 <img src="./dreamarcades-logo.png" href="https://www.dreamarcades.com/" width="190px" height="75px" alt="DreamArcades Logo">
-<p>I currently work as a Frontend Developer at <a href="https://www.dreamarcades.com/">DreamArcades!</a> It's a fun job that involves developing, maintaining, and designing the website for the company, with the occasional backend task.</p>
-
+<p>I currently work as a Frontend Developer at <a href="https://www.dreamarcades.com/">DreamArcades!</a> It's a fun job that involves developing, maintaining, and designing the website for the company, with the occasional backend task managing their database.</p>
+</div>
 <!-- Section: Projects -->
-<h2>🚀 <u>Projects</u></h2>
+<h2><u>Projects</u></h2>
 
 <!-- Project: Portfolio Website -->
 | ![Portfolio Website](./project-portfolio-website.png) | **[Portfolio Website](https://kevinpcendana.com/)**<br>My personal portfolio website that showcases my projects, skills, and experiences. Designed with Figma and developed from scratch with React. |
 |:--:|:--|
 
 <!-- Project: Chunkify -->
-| ![Chunkify](./chunkify.png) | **[Chunkify](https://github.com/Kevin-Cendana/Chunkify)**<br>Chunkify is a task list app with a twist: AI helps give advice and break down your tasks into smaller chunks! Targeted towards people who get overwhelmed easily, such as those with ADHD, anxiety, or adjacent disorders. Made for the [AI Hackathon @ CSUS](https://lu.ma/o2sau79c) in April 2024 with a team of 4, but development is still ongoing. I made the UI as well as most of the frontend code. |
+| ![Chunkify](./chunkify.png) | **[Chunkify](https://github.com/Kevin-Cendana/Chunkify)**<br>Chunkify is a task list app with a twist: AI helps give advice and break down your tasks into smaller chunks! Targeted towards people who get overwhelmed easily, such as those with ADHD or adjacent disorders. <br><br>Made for the [AI Hackathon @ CSUS](https://lu.ma/o2sau79c) in April 2024 with a team of 4, but development is still ongoing. I made the UI as well as most of the frontend code. |
 |:--:|:--|
 
 
 <!-- Project: AT&T 5G Technology Website -->
-| ![AT&T 5G Website](./att-website.png) | **[AT&T 5G Technology Website](https://github.com/Kevin-Cendana/Hackathon-ATT-EmpowHer)**<br>A website that showcases the benefits of AT&T's 5G technology, such as faster speeds, lower latency, and more. Made for AT&T's Hackathon: EmpowHer in June 2023. I designed and developed the website from scratch with HTML, JS, and CSS on my own. |
+| ![AT&T 5G Website](./att-website.png) | **[AT&T 5G Technology Website](https://github.com/Kevin-Cendana/Hackathon-ATT-EmpowHer)**<br>A website that showcases the benefits of AT&T's 5G technology, such as faster speeds, lower latency, and more. <br><br>Made for AT&T's Hackathon: EmpowHer in June 2023. I designed and developed the website from scratch with HTML, JS, and CSS on my own. |
 |:--:|:--|
 
 <!-- Project: Lyric Link -->
-| ![Lyric Link](https://camo.githubusercontent.com/978852e443842149bc957e170a92c1bc2f991aeea168c446d0d9f1fa949927e3/68747470733a2f2f692e696d6775722e636f6d2f554e4d577a30692e676966) | **[Lyric Link](https://github.com/Kevin-Cendana/Hackathon-SacHacks-2023)**<br>A demo application using Django, React, HTML & CSS, Lyric Link acts as a forum that sorts through Top 100 songs on Billboard. Made for [SacHacks](https://sachacks-v.devpost.com/) in November 2023 in a team of 4 over the weekend. I designed the UI, created all of the frontend code, and successfully linked with my teammates' backend code. |
+| ![Lyric Link](./lyric-link.gif) | **[Lyric Link](https://github.com/Kevin-Cendana/Hackathon-SacHacks-2023)**<br>A demo application using Django, React, HTML & CSS, Lyric Link acts as a forum that sorts through Top 100 songs on Billboard. <br><br>Made for [SacHacks](https://sachacks-v.devpost.com/) in November 2023 in a team of 4 over the weekend. I designed all of the UI, created all of the frontend code, and successfully linked with my teammates' Python backend code. |
 |:--:|:--|
 
 <!-- Project: Maplestory Mini -->
-| ![Maplestory App](./maplestory-app.gif) | **[Maplestory Mini](https://github.com/Kevin-Cendana/Byte-Sized-Projects/tree/main/Maplestory%20App)**<br>A project made to practice Flutter & Dart based on the gameplay loop of one of my favorite childhood games, Maplestory. I made the app for fun to try out mobile development! |
+| ![Maplestory App](./maplestory-app.gif) | **[Maplestory Mini](https://github.com/Kevin-Cendana/Byte-Sized-Projects/tree/main/Maplestory%20App)**<br>A project based on the gameplay loop of one of my favorite childhood games, Maplestory. <br><br>I made the app for fun to try out mobile development and familiarize myself with Flutter & Dart. |
 |:--:|:--|
 
 
@@ -48,11 +49,11 @@ Thank you for giving my profile a visit! </p>
 
 
 <!-- Section: Academia --> 
-<h2>📚 <u>Academia</u></h2>
+<h2><u>Academia</u></h2>
 <p>I graduate from California State University, Sacramento as a Computer Science major in May 2024! All of my relevant coursework can be found in <a href="https://github.com/Kevin-Cendana/Computer-Science-Coursework">this</a> repository.</p>
 
 <!-- Section: Volunteering --> 
-<h2>🤝 <u>Volunteering</u></h2>
+<h2><u>Volunteering</u></h2>
 
 <!-- Volunteer: ACM -->
 <h3><a href="https://csus.acm.org/">Association for Computing Machinery (ACM)</a></h3>
