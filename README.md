@@ -13,7 +13,7 @@ Thank you for giving my profile a visit! </p>
 
 <!-- Section: Career -->
 <h2>💼 <u>Career</u></h2>
-<img src="./dreamarcades-logo.png" width="180px" height="75px" alt="DreamArcades Logo">
+<img src="./dreamarcades-logo.png" href="https://www.dreamarcades.com/" width="180px" height="75px" alt="DreamArcades Logo">
 <p>I currently work as a Frontend Developer at <a href="https://www.dreamarcades.com/">DreamArcades!</a> It's a fun job that involves developing, maintaining, and designing the website for the company, with the occasional backend task.</p>
 
 <!-- Section: Projects -->
@@ -34,27 +34,31 @@ Made for the <a href="https://lu.ma/o2sau79c">AI Hackathon @ CSUS</a> in April 2
 
 <!-- Project: AT&T 5G Technology Website -->
 <h3><a href="https://github.com/Kevin-Cendana/Hackathon-ATT-EmpowHer">AT&T 5G Technology Website</a></h3>
-<p>A website that showcases the benefits of AT&T's 5G technology, such as faster speeds, lower latency, and more. 
-<br>
-Made for <a href="https://life.att.jobs/college-students-empowher-hackathon/">AT&T's Hackathon: EmpowHer</a> in June 2023. I designed and developed the website from scratch with HTML, JS, and CSS on my own.</p>
-<img src="./att-website.png">
+<div class="row" style="display:flex;">
+    <img src="./att-website.png" width=240 height=240>
+    <p>A website that showcases the benefits of AT&T's 5G technology, such as faster speeds, lower latency, and more.
+    Made for <a href="https://life.att.jobs/college-students-empowher-hackathon/">AT&T's Hackathon: EmpowHer</a> in June 2023. I designed and developed the website from scratch with HTML, JS, and CSS on my own.</p>
+</div>
 
 <!-- Project: Lyric Link -->
 <h3><a href="https://github.com/Kevin-Cendana/Hackathon-SacHacks-2023">Lyric Link</a></h3>
-<p>A full stack demo application using Django, React, HTML & CSS, Lyric Link acts as a forum that sorts through the top 100 songs on Billboard. Users can leave thoughts and comments on the songs. 
-<br>
-Made for <a href="https://sachacks-v.devpost.com/">SacHacks</a> in November 2023 in a team of 4 over the weekend. I designed the UI, created all of the frontend code, and successfully linked with my teammates backend code.</p>
-<img src="https://camo.githubusercontent.com/978852e443842149bc957e170a92c1bc2f991aeea168c446d0d9f1fa949927e3/68747470733a2f2f692e696d6775722e636f6d2f554e4d577a30692e676966">
+<div class="row" style="display:flex">
+    <img width=240 height=240 src="https://camo.githubusercontent.com/978852e443842149bc957e170a92c1bc2f991aeea168c446d0d9f1fa949927e3/68747470733a2f2f692e696d6775722e636f6d2f554e4d577a30692e676966">
+    <p>A full stack demo application using Django, React, HTML & CSS, Lyric Link acts as a forum that sorts through the top 100 songs on Billboard. Users can leave thoughts and comments on the songs. Made for <a href="https://sachacks-v.devpost.com/">SacHacks</a> in November 2023 in a team of 4 over the weekend. I designed the UI, created all of the frontend code, and successfully linked with my teammates backend code.</p>
+</div>
+
 
 <!-- Project: Maplestory Mini -->
 <h3><a href="https://github.com/Kevin-Cendana/Byte-Sized-Projects/tree/main/Maplestory%20App">Maplestory Mini</a></h3>
-<p>A project made to practice Flutter & Dart based on the gameplay loop of one of my favorite childhood games, Maplestory. I made the app for fun to try out mobile development!</p>
-<img src="./maplestory-app.gif">
+<div class="row" style="display:flex;">
+    <img src="./maplestory-app.gif" width=240 height=200>
+    <p>A project made to practice Flutter & Dart based on the gameplay loop of one of my favorite childhood games, Maplestory. I made the app for fun to try out mobile development!</p>
+</div>
+
 
 <!-- Project: Byte Sized Projects -->
 <h3><a href="">Byte Sized Projects</a></h3>
 <p>I am a firm believer that the best way to learn is by doing. I like to make a lot of smaller apps in my free time just to get some practice or to try out a new field of programming for fun!
-<br>
 For example, here are a series of apps I made using Swift UI, including a sleep tracker, time converter, tip calculator, Word Scrabble, Guess the Flag. I made these apps to practice Swift UI and iOS development.</p>
 <div class="row">
     <img src="./better_rest.png" width="180" height="350" alt="Better Rest">
