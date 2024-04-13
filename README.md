@@ -1,12 +1,10 @@
 
 <!-- Header Image -->
 <img src="kevin-cendana-header.png" alt="Header">
-
 <!-- Introduction Text -->
 <p>Hello! I’m Kevin, a passionate Frontend Developer who loves developing and designing applications. 
 <br>
 Thank you for giving my profile a visit! </p>
-
 <!-- Section: Projects -->
 <details>
   <summary><h3>&nbsp; Projects</h3></summary>
@@ -30,13 +28,11 @@ Thank you for giving my profile a visit! </p>
 |:--|
 | <img src="./better_rest.png" alt="Better Rest" width="95" height="175"> <img src="./time_converter.png" alt="Time Converter" width="95" height="175"> <img src="./we_split.png" alt="We Split" width="95" height="175"> <img src="./word_scrabble.png" alt="Word Scrabble" width="95" height="175"> <img src="./guess_the_flag.png" alt="Guess The Flag" width="95" height="175"> |
 </details>
-
 <!-- Section: Academia --> 
 <details>
   <summary><h3>&nbsp; Academia</h3></summary>
   <p>I graduate from California State University, Sacramento as a Computer Science major in May 2024! All of my relevant coursework can be found in <a href="https://github.com/Kevin-Cendana/Computer-Science-Coursework">this</a> repository.</p>
 </details>
-
 <!-- Section: Volunteering --> 
 <details>
   <summary><h3>&nbsp; Volunteering</h3></summary>
