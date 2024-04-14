@@ -34,10 +34,10 @@
 <!-- Section: Academia --> 
 <details>
   <summary><h3>&nbsp; Academia</h3></summary>
-  <p>I graduate from California State University, Sacramento as a Computer Science major in May 2024! <br>All of my relevant coursework can be found in the repository below. Each class has a README describing the content and course material.</p>
   
 [![Static Badge](https://img.shields.io/badge/California%20State%20University%2C%20Sacramento-%23138717?style=for-the-badge&label=Courses&labelColor=%23014703)](https://github.com/Kevin-Cendana/Computer-Science-Coursework)
 
+  <p>I graduate from California State University, Sacramento as a Computer Science major in May 2024! <br>All of my relevant coursework can be found in the repository above. Each class has a README describing the content and course material.</p>
 </details>
 <!-- Section: Volunteering --> 
 <details>
