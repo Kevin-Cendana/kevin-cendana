@@ -10,7 +10,7 @@
 
 <!-- Section: Projects -->
 <details>
-  <summary><h3>&nbsp; 🛠️ Projects</h3></summary>
+  <summary><h3>&nbsp; 📝 Projects</h3></summary>
 
 | ![Portfolio Website](./portfolio-website.png) | **[Portfolio Website](https://kevinpcendana.com/)**<br>My personal portfolio website that showcases my projects, skills, and experiences. <br><br> I designed a template of the app with Figma and developed it from scratch with React. |
 |:--:|:--|
@@ -33,7 +33,7 @@
 </details>
 <!-- Section: Academia --> 
 <details>
-  <summary><h3>&nbsp; Academia</h3></summary>
+  <summary><h3>&nbsp; 📚 Academia</h3></summary>
   
 [![Static Badge](https://img.shields.io/badge/California%20State%20University%2C%20Sacramento-%23138717?style=for-the-badge&label=Courses&labelColor=%23014703)](https://github.com/Kevin-Cendana/Computer-Science-Coursework)
 
@@ -41,7 +41,7 @@
 </details>
 <!-- Section: Volunteering --> 
 <details>
-  <summary><h3>&nbsp; Volunteering</h3></summary>
+  <summary><h3>&nbsp; ⭐️ Volunteering</h3></summary>
   
   [![Static Badge](https://img.shields.io/badge/Association%20for%20Computing%20Machinery-skyblue?style=for-the-badge&logo=acm&link=https%3A%2F%2Fkevinpcendana.com%2F)](https://csus.acm.org/)
 
