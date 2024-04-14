@@ -10,7 +10,7 @@
 
 <!-- Section: Projects -->
 <details>
-  <summary><h3>&nbsp; Projects</h3></summary>
+  <summary><h3>&nbsp; 🛠️ Projects</h3></summary>
 
 | ![Portfolio Website](./portfolio-website.png) | **[Portfolio Website](https://kevinpcendana.com/)**<br>My personal portfolio website that showcases my projects, skills, and experiences. <br><br> I designed a template of the app with Figma and developed it from scratch with React. |
 |:--:|:--|
