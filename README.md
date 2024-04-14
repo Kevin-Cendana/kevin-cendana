@@ -1,6 +1,6 @@
 
 <!-- Header Image -->
-<img src="kevin-cendana-header.png" alt="Header">
+<img src="kevin-cendana-header-dark.png" alt="Header">
 <!-- Introduction Text -->
 <p>Hello! I’m Kevin, a passionate Frontend Developer who loves developing and designing applications. 
 <br>
