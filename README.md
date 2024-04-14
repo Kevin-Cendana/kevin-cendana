@@ -1,10 +1,13 @@
 
 <!-- Header Image -->
 <img src="kevin-cendana-header-dark.png" alt="Header">
-<!-- Introduction Text -->
-<p>Hello! I’m Kevin, a passionate Frontend Developer who loves developing and designing applications. 
-<br>
-Thank you for giving my profile a visit! </p>
+
+<!-- Socials -->
+[![Portfolio Badge](https://img.shields.io/badge/Portfolio-%23f0f0f0?style=for-the-badge&logo=react)](https://kevinpcendana.com/)
+[![LinkedIn Badge](https://img.shields.io/badge/KevinCendana-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/kevincendana)
+[![Discord Badge](https://img.shields.io/badge/lyla.kc-%23828fff?style=for-the-badge&logo=discord)](https://discord.com/users/lyla.kc)
+[![Outlook Badge](https://img.shields.io/badge/kevincendana%40outlook.com-%2352b1ff?style=for-the-badge&logo=microsoft%20outlook&link=https%3A%2F%2Fkevinpcendana.com%2F)](mailto:kevincendana@outlook.com)
+
 <!-- Section: Projects -->
 <details>
   <summary><h3>&nbsp; Projects</h3></summary>
@@ -31,13 +34,20 @@ Thank you for giving my profile a visit! </p>
 <!-- Section: Academia --> 
 <details>
   <summary><h3>&nbsp; Academia</h3></summary>
-  <p>I graduate from California State University, Sacramento as a Computer Science major in May 2024! <br>All of my relevant coursework can be found in <a href="https://github.com/Kevin-Cendana/Computer-Science-Coursework">this</a> repository.<br>Each class has a README describing the content and course material.</p>
+  <p>I graduate from California State University, Sacramento as a Computer Science major in May 2024! <br>All of my relevant coursework can be found in the repository below. Each class has a README describing the content and course material.</p>
+  
+[![Static Badge](https://img.shields.io/badge/California%20State%20University%2C%20Sacramento-%23138717?style=for-the-badge&label=Courses&labelColor=%23014703)](https://github.com/Kevin-Cendana/Computer-Science-Coursework)
+
 </details>
 <!-- Section: Volunteering --> 
 <details>
   <summary><h3>&nbsp; Volunteering</h3></summary>
-  <h3><a href="https://csus.acm.org/">Association for Computing Machinery (ACM)</a></h3>
-  ACM is the premiere Computer Science & Computer Engineering-based club on the CSU Sacramento campus. As their webmaster, I've helped maintain, design, and develop the website for the club, such as by adding in the members section to the website.
-  <h3><a href="https://github.com/Kevin-Cendana/Video-Game-Design-Club-CSUS">Video Game Design Club (VGDC)</a></h3>
-  I'm a programmer for the VGDC at CSUS, which is filled with passionate students learning to design and create video games. I've helped develop a game demo for a game jam session, and I'm also the sole designer & developer of the club's website.
+  
+  [![Static Badge](https://img.shields.io/badge/Association%20for%20Computing%20Machinery-skyblue?style=for-the-badge&logo=acm&link=https%3A%2F%2Fkevinpcendana.com%2F)](https://csus.acm.org/)
+
+**Association of Computing Machinery (ACM)** is the premiere Computer Science & Computer Engineering-based club on the CSU Sacramento campus. As their webmaster, I've helped maintain, design, and develop the website for the club, such as by adding in the members section to the website.
+
+  [![Static Badge](https://img.shields.io/badge/Video%20Game%20Design%20Club-%23008cff?style=for-the-badge&logo=nintendo%20gamecube&link=https%3A%2F%2Fkevinpcendana.com%2F)](https://github.com/Kevin-Cendana/Video-Game-Design-Club-CSUS)
+
+**The Video Game Design Club (VGDC)** is filled with passionate students learning to design and create video games. I'm the sole designer & developer of the club's website currently being built & I've helped developed game demos during their game jam sessions!
 </details>
