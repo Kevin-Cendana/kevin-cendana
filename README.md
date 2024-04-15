@@ -3,7 +3,7 @@
 <img src="kevin-cendana-header-dark.png" alt="Header">
 
 <!-- Socials -->
-[![Portfolio Badge](https://img.shields.io/badge/Portfolio_Website-%23f0f0f0?style=for-the-badge&logo=react)](https://kevinpcendana.com/)
+[![Static Badge](https://img.shields.io/badge/Portfolio%20Website-%23fcfcfc?style=for-the-badge&logo=htmx&logoColor=blue)](https://kevinpcendana.com/)
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/kevincendana)
 [![Discord Badge](https://img.shields.io/badge/Discord-%23828fff?style=for-the-badge&logo=discord)](https://discord.com/users/lyla.kc)
 [![Outlook Badge](https://img.shields.io/badge/EMail-%2352b1ff?style=for-the-badge&logo=microsoft%20outlook&link=https%3A%2F%2Fkevinpcendana.com%2F)](mailto:kevincendana@outlook.com)
