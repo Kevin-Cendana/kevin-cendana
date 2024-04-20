@@ -15,9 +15,6 @@
 | ![Portfolio Website](./portfolio-website.png) | **[Portfolio Website](https://kevinpcendana.com/)**<br>My personal portfolio website that showcases my projects, skills, and experiences. <br><br> I designed a template of the app with Figma and developed it from scratch with React. |
 |:--:|:--|
 
-| ![Chunkify](./chunkify.png) | **[Chunkify](https://github.com/Kevin-Cendana/Chunkify)**<br>Chunkify is a task list with a twist: AI breaks down your tasks into smaller chunks. Chunkify is perfect for those who get overwhelmed easily, such as those with ADHD. <br><br>Made for the [AI Hackathon @ CSUS](https://lu.ma/o2sau79c) in April 2024 with a team of 4, but development is still ongoing. I made the UI & most of the frontend code. |
-|:--:|:--|
-
 | ![AT&T 5G Website](./att-website.png) | **[AT&T 5G Technology Website](https://github.com/Kevin-Cendana/Hackathon-ATT-EmpowHer)**<br>A website that showcases the benefits of AT&T's 5G technology, such as faster speeds, lower latency, and more. <br><br>Made for [AT&T's Hackathon: EmpowHer](https://life.att.jobs/college-students-empowher-hackathon/) in June 2023. I designed and developed the website from scratch with HTML, JS, and CSS on my own. |
 |:--:|:--|
 
@@ -25,6 +22,12 @@
 |:--:|:--|
 
 | ![Maplestory App](./maplestory-app.gif) | **[Maplestory Mini](https://github.com/Kevin-Cendana/Byte-Sized-Projects/tree/main/Maplestory%20App)**<br>A project based on the gameplay loop of one of my favorite childhood games, Maplestory. <br><br>I made the app for fun to try out mobile development and familiarize myself with Flutter & Dart. |
+|:--:|:--|
+
+| ![Chunkify](./chunkify.png) | **[Chunkify](https://github.com/Kevin-Cendana/Chunkify) [WIP]**<br>Chunkify is a task list with a twist: AI breaks down your tasks into smaller chunks. Chunkify is perfect for those who get overwhelmed easily, such as those with ADHD. <br><br>Made for the [AI Hackathon @ CSUS](https://lu.ma/o2sau79c) in April 2024 with a team of 4, but development is still ongoing. I made the UI & most of the frontend code. |
+|:--:|:--|
+
+| ![Sacramento Glory Korean Church](./sgkc.png) | **[Sacramento Glory Korean Church](https://sacglorychuch.org) [WIP]**<br>A website dedicated to the Sacramento Glory Korean Church! The SGKC website features language switching, searching for available sermons & events in a database, a dynamic photo gallery with multiple albums, and more. <br><br>Created as my capstone project in a group of 8 for a local pastor, the SGKC church is a full stack website made using React, Spring, & hosted with AWS. <br>  |
 |:--:|:--|
 
 | **[Byte Sized Projects](https://github.com/Kevin-Cendana/Byte-Sized-Projects)**<br>I am a firm believer that the best way to learn is by doing. As such, I like to make a lot of smaller apps in my free time just to get some practice or to try out a new field of programming for fun! <br><br>As an example, here are a series of apps I made using Swift UI, including a sleep tracker, time converter, tip calculator, Word Scrabble, Guess the Flag, & more. I made these apps to practice Swift UI and iOS development. 
