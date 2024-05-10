@@ -2,18 +2,31 @@
 <!-- Header Image -->
 <img src="kevin-cendana-header-dark.png" alt="Header">
 
-<!-- Socials -->
+<!-- Badges for Socials -->
 [![Static Badge](https://img.shields.io/badge/Portfolio%20Website-%23fcfcfc?style=for-the-badge&logo=htmx&logoColor=blue)](https://kevinpcendana.com/)
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/kevincendana)
 [![Discord Badge](https://img.shields.io/badge/Discord-%23828fff?style=for-the-badge&logo=discord)](https://discord.com/users/lyla.kc)
 [![Outlook Badge](https://img.shields.io/badge/EMail-%2352b1ff?style=for-the-badge&logo=microsoft%20outlook&link=https%3A%2F%2Fkevinpcendana.com%2F)](mailto:kevincendana@outlook.com)
 
-<p>Hi, I'm Kevin! My GitHub profile here is meant to share my projects from personal creations, work, school, & volunteering. </p>
-<p>For a more in depth look into my journey, please check out my portfolio website <a href="https://kevinpcendana.com">here.</a> Thank you for stopping by!</p>
+Hi, I'm Kevin(•◡•)⸝ 
 
+My profile here is for sharing my projects from personal creations, work, school, & volunteering.
+For an in-depth look into my journey, please check out my <a href="https://kevinpcendana.com">portfolio website.</a> Thank you for stopping by!
+
+<!-- Section: Career -->
+<details>
+  <summary><h3>&nbsp; Career &nbsp;💼 </h3></summary>
+
+<img src="./dreamarcades-logo.png" width="240" height="100">
+  <p>I'm currently working as a full time Front-End Developer at DreamArcades! </p>
+  <p>This includes designing, developing, and maintaining their website. I'm currently working on improving their user interface and cleaning up their codebase, which has been really fun and a great learning experience. As it's been my breakthrough job getting into the world of front-end development, DreamArcades holds a special place in my heart. </p>
+</details
+  
 <!-- Section: Projects -->
 <details>
-  <summary><h3>&nbsp; Projects 📝 </h3></summary>
+  <summary><h3>&nbsp; Projects &nbsp;📝 </h3></summary>
+
+I love coding not just for my career, but in my free time as well. Here's a list of some major projects that I have made:
 
 | ![Portfolio Website](./portfolio-website.png) | **[Portfolio Website](https://kevinpcendana.com/)**<br>My personal portfolio website that showcases my projects, skills, and experiences. <br><br> I designed a template of the app with Figma and developed it from scratch with React. |
 |:--:|:--|
@@ -39,15 +52,16 @@
 </details>
 <!-- Section: Academia --> 
 <details>
-  <summary><h3>&nbsp; Academia 📚</h3></summary>
+  <summary><h3>&nbsp; Academia &nbsp;📚</h3></summary>
   
 [![Static Badge](https://img.shields.io/badge/California%20State%20University%2C%20Sacramento-%23138717?style=for-the-badge&label=Courses&labelColor=%23014703)](https://github.com/Kevin-Cendana/Computer-Science-Coursework)
 
-  <p>I graduate from California State University, Sacramento as a Computer Science major in May 2024! <br>All of my relevant coursework can be found in the repository above. Each class has a README describing the content and course material.</p>
+<p>I graduate from California State University, Sacramento as a Computer Science major in May 2024! <br>All of my relevant coursework can be found in the repository by clicking on the badge above.</p>
+<p>Each class has a README describing the content and course material.</p>
 </details>
 <!-- Section: Volunteering --> 
 <details>
-  <summary><h3>&nbsp; Volunteering ⭐️</h3></summary>
+  <summary><h3>&nbsp; Volunteering &nbsp;⭐️</h3></summary>
   
   [![Static Badge](https://img.shields.io/badge/Association%20for%20Computing%20Machinery-skyblue?style=for-the-badge&logo=acm&link=https%3A%2F%2Fkevinpcendana.com%2F)](https://csus.acm.org/)
 
@@ -55,5 +69,5 @@
 
   [![Static Badge](https://img.shields.io/badge/Video%20Game%20Design%20Club-%23008cff?style=for-the-badge&logo=nintendo%20gamecube&link=https%3A%2F%2Fkevinpcendana.com%2F)](https://github.com/Kevin-Cendana/Video-Game-Design-Club-CSUS)
 
-**The Video Game Design Club (VGDC)** is filled with passionate students learning to design and create video games. I'm the sole designer & developer of the club's website currently being built & I've helped developed game demos during their game jam sessions!
+**The Video Game Design Club (VGDC)** is filled with passionate students learning to design and create video games. I'm the sole designer & developer of the club's website currently being built & I've helped developed game demos during their game jam sessions.
 </details>
