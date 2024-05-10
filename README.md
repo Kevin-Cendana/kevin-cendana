@@ -8,6 +8,9 @@
 [![Discord Badge](https://img.shields.io/badge/Discord-%23828fff?style=for-the-badge&logo=discord)](https://discord.com/users/lyla.kc)
 [![Outlook Badge](https://img.shields.io/badge/EMail-%2352b1ff?style=for-the-badge&logo=microsoft%20outlook&link=https%3A%2F%2Fkevinpcendana.com%2F)](mailto:kevincendana@outlook.com)
 
+<p>Hi, I'm Kevin! My GitHub profile here is meant to share my projects from personal creations, work, school, & volunteering. </p>
+<p>For a more in depth look into my journey, please check out my portfolio website <a href="https://kevinpcendana.com">here.</a> Thank you for stopping by!</p>
+
 <!-- Section: Projects -->
 <details>
   <summary><h3>&nbsp; Projects 📝 </h3></summary>
