@@ -1,6 +1,6 @@
 
 <!-- Header Image -->
-<img src="kevin-cendana-header-dark.png" alt="Header">
+<img src="https://i.imgur.com/eWy9HKQ.gif" alt="Header">
 
 <!-- Badges for Socials -->
 [![Static Badge](https://img.shields.io/badge/Portfolio%20Website-%23fcfcfc?style=for-the-badge&logo=htmx&logoColor=blue)](https://kevinpcendana.com/)
@@ -8,9 +8,10 @@
 [![Discord Badge](https://img.shields.io/badge/Discord-%23828fff?style=for-the-badge&logo=discord)](https://discord.com/users/lyla.kc)
 [![Outlook Badge](https://img.shields.io/badge/EMail-%2352b1ff?style=for-the-badge&logo=microsoft%20outlook&link=https%3A%2F%2Fkevinpcendana.com%2F)](mailto:kevincendana@outlook.com)
 
-Hi, I'm Kevin(•◡•)⸝ 
+### Hi, I'm Kevin (•◡•)⸝ 
 
 My profile here is for sharing my projects from personal creations, work, school, & volunteering.
+
 For an in-depth look into my journey, please check out my <a href="https://kevinpcendana.com">portfolio website.</a> Thank you for stopping by!
 
 <!-- Section: Career -->
@@ -19,7 +20,7 @@ For an in-depth look into my journey, please check out my <a href="https://kevin
 
 <img src="./dreamarcades-logo.png" width="240" height="100">
   <p>I'm currently working as a full time Front-End Developer at DreamArcades! </p>
-  <p>This includes designing, developing, and maintaining their website. I'm currently working on improving their user interface and cleaning up their codebase, which has been really fun and a great learning experience. As it's been my breakthrough job getting into the world of front-end development, DreamArcades holds a special place in my heart. </p>
+  <p>This includes designing, developing, and maintaining their website. I'm currently working on improving their user interface and cleaning up their codebase, which has been really fun and a great learning experience. As it is my breakthrough job getting into the world of front-end development, I'm very grateful to be given the opportunity to work at DreamArcades. </p>
 </details
   
 <!-- Section: Projects -->
