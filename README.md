@@ -1,6 +1,6 @@
 
 <!-- Header Image -->
-<img src="https://i.imgur.com/eWy9HKQ.gif" alt="Header">
+<img src="https://i.imgur.com/MeUBhhD.gif" alt="Header">
 
 <!-- Badges for Socials -->
 [![Static Badge](https://img.shields.io/badge/Portfolio%20Website-%23fcfcfc?style=for-the-badge&logo=htmx&logoColor=blue)](https://kevinpcendana.com/)
