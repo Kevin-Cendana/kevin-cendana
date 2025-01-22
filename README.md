@@ -41,7 +41,7 @@ I love coding not just for my career, but in my free time as well. Here's a list
 | ![Maplestory App](./maplestory-app.gif) | **[Maplestory Mini](https://github.com/Kevin-Cendana/Byte-Sized-Projects/tree/main/Maplestory%20App)**<br>A project based on the gameplay loop of one of my favorite childhood games, Maplestory. <br><br>I made the app for fun to try out mobile development and familiarize myself with Flutter & Dart. |
 |:--:|:--|
 
-| ![Chunkify](./chunkify.png) | **[Chunkify](https://github.com/Kevin-Cendana/Chunkify) [WIP]**<br>Chunkify is a task list with a twist: AI breaks down your tasks into smaller chunks. Chunkify is perfect for those who get overwhelmed easily, such as those with ADHD. <br><br>Made for the [AI Hackathon @ CSUS](https://lu.ma/o2sau79c) in April 2024 with a team of 4, but development is still ongoing. I made the UI & most of the frontend code. |
+| ![Chunkify](./chunkify.png) | **[Chunkify](https://github.com/Kevin-Cendana/Chunkify)**<br>Chunkify is a task list with a twist: AI breaks down your tasks into smaller chunks. Chunkify is perfect for those who get overwhelmed easily, such as those with learning disabilities. <br><br>Made for the [AI Hackathon @ CSUS](https://lu.ma/o2sau79c) in April 2024 with a team of 4. I made the UI & most of the frontend code. |
 |:--:|:--|
 
 | ![Sacramento Glory Korean Church](./sgkc.png) | **[Sacramento Glory Korean Church](https://sacglorychurch.org) [WIP]**<br>A website dedicated to the Sacramento Glory Korean Church, featuring language switching, sermons & events searching, a dynamic photo gallery with multiple albums, & more. <br><br>Created as my capstone project in a group of 8 for a local pastor, the SGKC church is a full stack website made using React, Spring, & hosted with AWS. <br>  |
@@ -57,7 +57,7 @@ I love coding not just for my career, but in my free time as well. Here's a list
   
 [![Static Badge](https://img.shields.io/badge/California%20State%20University%2C%20Sacramento-%23138717?style=for-the-badge&label=Courses&labelColor=%23014703)](https://github.com/Kevin-Cendana/Computer-Science-Coursework)
 
-<p>I graduate from California State University, Sacramento as a Computer Science major in May 2024! <br>All of my relevant coursework can be found in the repository by clicking on the badge above.</p>
+<p>I graduated from California State University, Sacramento as a Computer Science major in May 2024! <br>All of my relevant coursework can be found in the repository by clicking on the badge above.</p>
 <p>Each class has a README describing the content and course material.</p>
 </details>
 <!-- Section: Volunteering --> 
